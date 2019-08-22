@@ -11,6 +11,6 @@ I will put my solutions to [Leetcode Problems](https://leetcode.com/problemset/a
 
 ## Problems
 
-| ID| Problem| C++ |
-| --- | --- | :---: | 
+| ID| Problem| C++ | Java |
+| --- | --- | --- | --- |
 | 001 | [Two Sum](https://leetcode-cn.com/problems/two-sum/) | [C++](0001-Two-Sum/main.cpp)|
