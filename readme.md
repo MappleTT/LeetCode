@@ -8,7 +8,7 @@ I will put my solutions to [Leetcode Problems](https://leetcode.com/problemset/a
 
 **个人QQ**：
 
-<img src="https://github.com/MappleTT/LeetCode/qq.jpg"  width=400px height=450px />
+<img src=https://github.com/MappleTT/LeetCode/blob/master/qq.jpg  width=270px height=300px >
 
 ## Problems
 
