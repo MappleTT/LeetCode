@@ -14,4 +14,4 @@ I will put my solutions to [Leetcode Problems](https://leetcode.com/problemset/a
 
 | ID| Problem| C++ | Java |
 | --- | --- | --- | --- |
-| 001 | [Two Sum](https://leetcode-cn.com/problems/two-sum/) | [C++](0001-Two-Sum/main.cpp)|
+| 001 | [Two Sum](https://leetcode-cn.com/problems/two-sum/) | [C++](https://github.com/MappleTT/LeetCode/blob/master/0001-Two-Sun/main.cpp)|
