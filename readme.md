@@ -7,10 +7,11 @@ I will put my solutions to [Leetcode Problems](https://leetcode.com/problemset/a
 这是我的 **Leetcode** 题解代码仓，所有问题都会使用C++进行解决，个别问题支持Java语言
 
 **个人QQ**：
-![QQ](qq.jpg)
+
+<img src=https://github.com/MappleTT/LeetCode/blob/master/qq.jpg  width=270px height=300px >
 
 ## Problems
 
 | ID| Problem| C++ | Java |
 | --- | --- | --- | --- |
-| 001 | [Two Sum](https://leetcode-cn.com/problems/two-sum/) | [C++](0001-Two-Sum/main.cpp)|
+| 001 | [Two Sum](https://leetcode-cn.com/problems/two-sum/) | [C++](https://github.com/MappleTT/LeetCode/blob/master/0001-Two-Sun/main.cpp)|
