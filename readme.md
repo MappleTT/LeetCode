@@ -7,7 +7,7 @@ I will put my solutions to [Leetcode Problems](https://leetcode.com/problemset/a
 这是我的 **Leetcode** 题解代码仓，所有问题都会使用C++进行解决，个别问题支持Java语言
 
 **个人QQ**：
-![QQ](qq.jpg)
+<img src="https://github.com/MappleTT/LeetCode/qq.jpg  width=400px height=450px">
 
 ## Problems
 
