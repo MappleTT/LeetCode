@@ -8,4 +8,5 @@ public:
             a^=t[i];
         return a;
     }
+
 };
