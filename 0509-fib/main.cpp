@@ -9,6 +9,7 @@ public:
         }
         return arr[N];
     }
+
 private:
     int arr[31];
 };
