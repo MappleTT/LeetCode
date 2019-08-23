@@ -10,6 +10,7 @@ public:
         }
         return num;
     }
+
 private:
     vector<int>arr;
     int num=0;
