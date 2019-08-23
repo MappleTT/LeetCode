@@ -16,6 +16,7 @@ public:
         }
         return arr;
     }
+
 private:
     vector<int>arr,arr1,arr2;
 };
