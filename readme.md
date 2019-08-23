@@ -46,11 +46,11 @@ I will put my solutions to [Leetcode Problems](https://leetcode.com/problemset/a
 | 0144 | [preorderTraversal](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) | [C++](https://github.com/MappleTT/LeetCode/blob/master/0144-preorderTraversal/main.cpp)|
 | 0169 | [majorityElement](https://leetcode-cn.com/problems/majority-element/) | [C++](https://github.com/MappleTT/LeetCode/blob/master/0169-majorityElement/main.cpp)|
 | 0172 | [trailingZeroes](https://leetcode-cn.com/problems/factorial-trailing-zeroes/) | [C++](https://github.com/MappleTT/LeetCode/blob/master/0172-trailingZeroes/main.cpp)|
-| 0198 | [MAX](https://leetcode-cn.com/problems/house-robber/) | [C++](https://github.com/MappleTT/LeetCode/blob/master/0198-MAX/main.cpp)|
+| 0198 | [rob](https://leetcode-cn.com/problems/house-robber/) | [C++](https://github.com/MappleTT/LeetCode/blob/master/0198-MAX/main.cpp)|
 | 0202 | [isHappy](https://leetcode-cn.com/problems/happy-number/) | [C++](https://github.com/MappleTT/LeetCode/blob/master/0202-isHappy/main.cpp)|
 | 0203 | [removeElements](https://leetcode-cn.com/problems/remove-linked-list-elements/) | [C++](https://github.com/MappleTT/LeetCode/blob/master/0203-removeElements/main.cpp)|
 | 0204 | [countPrimes](https://leetcode-cn.com/problems/count-primes/) | [C++](https://github.com/MappleTT/LeetCode/blob/master/0204-countPrimes/main.cpp)|
-| 0213 | [MAX](https://leetcode-cn.com/problems/house-robber-ii/) | [C++](https://github.com/MappleTT/LeetCode/blob/master/213-MAX/main.cpp)|
+| 0213 | [rob](https://leetcode-cn.com/problems/house-robber-ii/) | [C++](https://github.com/MappleTT/LeetCode/blob/master/213-MAX/main.cpp)|
 | 0217 | [containsDuplicate](https://leetcode-cn.com/problems/contains-duplicate/) | [C++](https://github.com/MappleTT/LeetCode/blob/master/0217-containsDuplicate/main.cpp)|
 | 0226 | [invertTree](https://leetcode-cn.com/problems/invert-binary-tree/) | [C++](https://github.com/MappleTT/LeetCode/blob/master/0226-invertTree/main.cpp)|
 | 0237 | [deleteNode](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/) | [C++](https://github.com/MappleTT/LeetCode/blob/master/0237-deleteNode/main.cpp)|
