@@ -5,17 +5,17 @@ public:
             return arr;
         data.push(root);
         while(!data.empty()){
-            TreeNode *node=data.front();
-            arr.push_back(data.front()->val);
+            TreeNode *node=data.top();
+            arr.push_back(data.top()->val);
             data.pop();
-            if(node->left!=NULL)
-                data.push(node->left);
             if(node->right!=NULL)
-                data.push(node->right);
+            data.push(node->right);
+            if(node->left!=NULL)
+            data.push(node->left);
         }
         return arr;
     }
 private:
     vector<int>arr;
-    queue<TreeNode *>data;
+    stack<TreeNode *>data;
 };
