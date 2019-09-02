@@ -162,7 +162,6 @@ I will put my solutions to [Leetcode Problems](https://leetcode.com/problemset/a
 | 0977 | [sortedSquares](https://leetcode-cn.com/problems/reverse-integer/) | [C++](https://github.com/MappleTT/LeetCode/blob/master/0977-sortedSquares/main.cpp)|
 | 1021 | [removeOuterParentheses](https://leetcode-cn.com/problems/reverse-integer/) | [C++](https://github.com/MappleTT/LeetCode/blob/master/1021-removeOuterParentheses/main.cpp)|
 | 1051 | [heightChecker](https://leetcode-cn.com/problems/reverse-integer/) | [C++](https://github.com/MappleTT/LeetCode/blob/master/1051-heightChecker/main.cpp)|
->>>>>>> Stashed changes
 | 1108 | [defangIPaddr](https://leetcode-cn.com/problems/defanging-an-ip-address/) | [C++](https://github.com/MappleTT/LeetCode/blob/master/1108-defangIPaddr/main.cpp)|
 | 1122 | [relativeSortArray](https://leetcode-cn.com/problems/relative-sort-array/) | [C++](https://github.com/MappleTT/LeetCode/blob/master/1122-relativeSortArray/main.cpp)|
 
