@@ -15,6 +15,7 @@ public:
         }
         return arr;
     }
+
 private:
     vector<int>arr;
     stack<TreeNode *>data;
