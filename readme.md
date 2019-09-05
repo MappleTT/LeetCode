@@ -6,9 +6,6 @@ I will put my solutions to [Leetcode Problems](https://leetcode.com/problemset/a
 
 这是我的 **Leetcode** 题解代码仓，所有问题都会使用C++进行解决
 
-**个人QQ**：
-
-<img src=https://github.com/MappleTT/LeetCode/blob/master/qq.jpg  width=270px height=300px >
 
 ## Problems
 
@@ -122,8 +119,10 @@ I will put my solutions to [Leetcode Problems](https://leetcode.com/problemset/a
 | 0204 | [countPrimes](https://leetcode-cn.com/problems/reverse-integer/) | [C++](https://github.com/MappleTT/LeetCode/blob/master/0204-countPrimes/main.cpp)|
 | 0213 | [MAX](https://leetcode-cn.com/problems/reverse-integer/) | [C++](https://github.com/MappleTT/LeetCode/blob/master/213-MAX/main.cpp)|
 | 0217 | [containsDuplicate](https://leetcode-cn.com/problems/reverse-integer/) | [C++](https://github.com/MappleTT/LeetCode/blob/master/0217-containsDuplicate/main.cpp)|
+| 0225 | [MyStack](https://leetcode-cn.com/problems/implement-stack-using-queues/) | [C++](https://github.com/MappleTT/LeetCode/blob/master/0225-MyStack/main.cpp)|
 | 0226 | [invertTree](https://leetcode-cn.com/problems/reverse-integer/) | [C++](https://github.com/MappleTT/LeetCode/blob/master/0226-invertTree/main.cpp)|
 | 0237 | [deleteNode](https://leetcode-cn.com/problems/reverse-integer/) | [C++](https://github.com/MappleTT/LeetCode/blob/master/0237-deleteNode/main.cpp)|
+| 0258 | [addDigits](https://leetcode-cn.com/problems/add-digits/) | [C++](https://github.com/MappleTT/LeetCode/blob/master/0258-addDigits/main.cpp)|
 | 0263 | [isUgly](https://leetcode-cn.com/problems/reverse-integer/) | [C++](https://github.com/MappleTT/LeetCode/blob/master/0263-isUgly/main.cpp)|
 | 0292 | [canWinNim](https://leetcode-cn.com/problems/reverse-integer/) | [C++](https://github.com/MappleTT/LeetCode/blob/master/0292-canWinNim/main.cpp)|
 | 0303 | [NumArray](https://leetcode-cn.com/problems/reverse-integer/) | [C++](https://github.com/MappleTT/LeetCode/blob/master/0303-NumArray/main.cpp)|
