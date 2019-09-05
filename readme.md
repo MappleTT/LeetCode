@@ -4,7 +4,7 @@ I will put my solutions to [Leetcode Problems](https://leetcode.com/problemset/a
 
 ---
 
-这是我的 **Leetcode** 题解代码仓，所有问题都会使用C++进行解决，个别问题支持Java语言
+这是我的 **Leetcode** 题解代码仓，所有问题都会使用C++进行解决
 
 **个人QQ**：
 
@@ -21,7 +21,6 @@ I will put my solutions to [Leetcode Problems](https://leetcode.com/problemset/a
 | 0013 | [romanToInt](https://leetcode-cn.com/problems/roman-to-integer/) | [C++](https://github.com/MappleTT/LeetCode/blob/master/0013-romanToInt/main.cpp)|
 | 0014 | [longestCommonPrefix](https://leetcode-cn.com/problems/longest-common-prefix/) | [C++](https://github.com/MappleTT/LeetCode/blob/master/0014-longestCommonPrefix/main.cpp)|
 | 0020 | [isValid](https://leetcode-cn.com/problems/valid-parentheses/) | [C++](https://github.com/MappleTT/LeetCode/blob/master/0020-isValid/main.cpp)|
-<<<<<<< Updated upstream
 | 0021 | [mergeTwoLists](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | [C++](https://github.com/MappleTT/LeetCode/blob/master/0021-mergeTwoLists/main.cpp)|
 | 0026 | [removeDuplicates](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | [C++](https://github.com/MappleTT/LeetCode/blob/master/0026-removeDuplicates/main.cpp)|
 | 0027 | [removeElement](https://leetcode-cn.com/problems/remove-element/) | [C++](https://github.com/MappleTT/LeetCode/blob/master/0027-removeElement/main.cpp)|
@@ -92,7 +91,6 @@ I will put my solutions to [Leetcode Problems](https://leetcode.com/problemset/a
 | 0977 | [sortedSquares](https://leetcode-cn.com/problems/squares-of-a-sorted-array/) | [C++](https://github.com/MappleTT/LeetCode/blob/master/0977-sortedSquares/main.cpp)|
 | 1021 | [removeOuterParentheses](https://leetcode-cn.com/problems/remove-outermost-parentheses/) | [C++](https://github.com/MappleTT/LeetCode/blob/master/1021-removeOuterParentheses/main.cpp)|
 | 1051 | [heightChecker](https://leetcode-cn.com/problems/height-checker/) | [C++](https://github.com/MappleTT/LeetCode/blob/master/1051-heightChecker/main.cpp)|
-=======
 | 0021 | [mergeTwoLists](https://leetcode-cn.com/problems/reverse-integer/) | [C++](https://github.com/MappleTT/LeetCode/blob/master/0021-mergeTwoLists/main.cpp)|
 | 0026 | [removeDuplicates](https://leetcode-cn.com/problems/reverse-integer/) | [C++](https://github.com/MappleTT/LeetCode/blob/master/0026-removeDuplicates/main.cpp)|
 | 0027 | [removeElement](https://leetcode-cn.com/problems/reverse-integer/) | [C++](https://github.com/MappleTT/LeetCode/blob/master/0027-removeElement/main.cpp)|
@@ -164,7 +162,6 @@ I will put my solutions to [Leetcode Problems](https://leetcode.com/problemset/a
 | 0977 | [sortedSquares](https://leetcode-cn.com/problems/reverse-integer/) | [C++](https://github.com/MappleTT/LeetCode/blob/master/0977-sortedSquares/main.cpp)|
 | 1021 | [removeOuterParentheses](https://leetcode-cn.com/problems/reverse-integer/) | [C++](https://github.com/MappleTT/LeetCode/blob/master/1021-removeOuterParentheses/main.cpp)|
 | 1051 | [heightChecker](https://leetcode-cn.com/problems/reverse-integer/) | [C++](https://github.com/MappleTT/LeetCode/blob/master/1051-heightChecker/main.cpp)|
->>>>>>> Stashed changes
 | 1108 | [defangIPaddr](https://leetcode-cn.com/problems/defanging-an-ip-address/) | [C++](https://github.com/MappleTT/LeetCode/blob/master/1108-defangIPaddr/main.cpp)|
 | 1122 | [relativeSortArray](https://leetcode-cn.com/problems/relative-sort-array/) | [C++](https://github.com/MappleTT/LeetCode/blob/master/1122-relativeSortArray/main.cpp)|
 
