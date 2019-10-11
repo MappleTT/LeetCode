@@ -24,6 +24,7 @@ I will put my solutions to [Leetcode Problems](https://leetcode.com/problemset/a
 | 0028 | [strStr](https://leetcode-cn.com/problems/implement-strstr/) | [C++](https://github.com/MappleTT/LeetCode/blob/master/0028-strStr/main.cpp)|
 | 0035 | [searchInsert](https://leetcode-cn.com/problems/search-insert-position/) | [C++](https://github.com/MappleTT/LeetCode/blob/master/0035-searchInsert/main.cpp)|
 | 0038 | [countAndSay](https://leetcode-cn.com/problems/count-and-say/) | [C++](https://github.com/MappleTT/LeetCode/blob/master/0038-countAndSay/main.cpp)|
+| 0051 | [solveNQueens](https://leetcode-cn.com/problems/n-queens/submissions/) | [C++](https://github.com/MappleTT/LeetCode/blob/master/0051-solveNQueens/main.cpp)|
 | 0050 | [myPow](https://leetcode-cn.com/problems/powx-n/) | [C++](https://github.com/MappleTT/LeetCode/blob/master/0050-myPow/main.cpp)|
 | 0053 | [maxSubArray](https://leetcode-cn.com/problems/maximum-subarray/) | [C++](https://github.com/MappleTT/LeetCode/blob/master/0053-maxSubArray/main.cpp)|
 | 0058 | [lengthOfLastWord](https://leetcode-cn.com/problems/length-of-last-word/) | [C++](https://github.com/MappleTT/LeetCode/blob/master/0058-lengthOfLastWord/main.cpp)|
